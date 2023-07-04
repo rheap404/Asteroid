@@ -1,11 +1,11 @@
 # Asteroid
-A Basic Asteriod made in C# using Unity, A classic aracde-style game where you can control a spaceship and destroy incoming asteroids.
+A Basic Asteriod made in C# using Unity, A classic arcade-style game where you can control a spaceship and destroy incoming asteroids.
 
 # Controls
-Up Arrow: Move Up
-Down Arrow: Move Down
-Left Arrow: Rotate Left
-Right Arrow: Rotate Right
+Up Arrow: Move Up  <br />
+Down Arrow: Move Down  <br />
+Left Arrow: Rotate Left  <br />
+Right Arrow: Rotate Right  <br />
 Space: Shoot
 
 # Gameplay 
